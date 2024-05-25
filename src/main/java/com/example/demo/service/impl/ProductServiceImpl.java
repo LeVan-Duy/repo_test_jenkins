@@ -79,7 +79,6 @@ public class ProductServiceImpl implements ProductService {
 
     @Override
     public Product update(ProductRequest request) {
-//        test jenkins commit?
         return null;
     }
 
